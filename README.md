@@ -1,6 +1,6 @@
 Welcome to the **Pump.Fun Launch Bundle Tool** – your ultimate solution for bundling on Pump.Fun with advanced profile creation and anti-bubble maps!
 
-This open-source and free tool offers the most efficient self-bundling script for Pump.Fun, enabling you to launch a token with 20 different wallets and profiles. Enjoy launches that are completely bubble maps-proof. For more details, join our Dicord at [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+This open-source and free tool offers the most efficient self-bundling script for Pump.Fun, enabling you to launch a token with 20 different wallets and profiles. Enjoy launches that are completely bubble maps-proof.
 
 
 
@@ -77,6 +77,6 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 ## Support and Contributions
 
-As an open-source project, we welcome contributions and feedback. If you have any questions or need assistance, please contact us on Telegram at @benorizz0.
+As an open-source project, we welcome contributions and feedback. If you have any questions or need assistance, please contact us on Telegram at https://t.me/Tr1030109.
 
 Enjoy seamless, efficient, and profitable launches with the Pump.Fun Launch Bundle Tool!
