@@ -77,6 +77,6 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 ## Support and Contributions
 
-As an open-source project, we welcome contributions and feedback. If you have any questions or need assistance, please contact us on Telegram at https://t.me/Tr1030109.
+As an open-source project, we welcome contributions and feedback. If you have any questions or need assistance, please contact us on Telegram at https://t.me/Ee1030109.
 
 Enjoy seamless, efficient, and profitable launches with the Pump.Fun Launch Bundle Tool!
