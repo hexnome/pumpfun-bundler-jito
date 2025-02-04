@@ -4,7 +4,8 @@
 	"description": "https://solana-scripts.com",
 	"main": "index.js",
 	"scripts": {
-		"start": "ts-node jitoPool.ts"
+		"start": "ts-node jitoPool.ts",
+		"bundle": "ts-node src/bundle.ts"
 	},
 	"author": "https://solana-scripts.com",
 	"license": "ISC",
