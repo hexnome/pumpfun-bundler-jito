@@ -2,6 +2,10 @@ Welcome to the **Pump.Fun Launch Bundle Tool** – your ultimate solution for bu
 
 This open-source and free tool offers the most efficient self-bundling script for Pump.Fun, enabling you to launch a token with 20 different wallets and profiles. Enjoy launches that are completely bubble maps-proof.
 
+# Updated features
+Recently, Pump.fun has updated their own smart contract for pump.fun AMM.
+so I updated pumpfun bundle with new IDL. if you need updated ONE, feel free to contact me.
+
 ## 20 wallets Transaction
 
 https://explorer.jito.wtf/bundle/4476d41e1cc615346d93587f85a2862cc60a08eb204d6f2c5e7ea22ee4025e10
